@@ -24,4 +24,4 @@ deploy:
   edge: true 
   app: miqueias-meneses
   on:
-      branch: main
+    branch: main
